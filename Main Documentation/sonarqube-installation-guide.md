@@ -242,7 +242,8 @@ http://192.0.2.11:9000
 You have installed SonarQube on Linux server. Login with the default credential with your username as admin and your password as admin. You can now continue and begin creating accounts for code analysis.
 
 
-Some Useful Links for more guidance:
+
+The credit humbly goes to the websites, from where I got help: 
 
 Official Documentation: https://docs.sonarqube.org/latest/
 
